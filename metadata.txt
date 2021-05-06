@@ -1,0 +1,5 @@
+﻿Name: EnemyRandomizer
+Version: 0.00
+DLL: EnemyRandomizer.dll
+
+Depends: Base 0.2
